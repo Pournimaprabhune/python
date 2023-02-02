@@ -1,0 +1,8 @@
+My name is pournima prabhnue,
+i am python devloper.
+i am working honest with my company.
+i will try my best to uplifiting my working.
+python is object oriented programming lanaguage.
+evrything in python is object.
+python support abstraction,inheritance,polymorphism,encapsulation etc.
+A object is isantance of class it has own state,baheviour and identity.

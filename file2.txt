@@ -1,0 +1,3 @@
+ python is the modern day lanaguge.
+        it makes things so simple.
+        it is the growing programming. python has an easy syntax and user friendly inetraction
